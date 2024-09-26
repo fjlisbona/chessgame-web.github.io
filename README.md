@@ -44,10 +44,6 @@
 
 ¡Contribuciones y sugerencias son bienvenidas! Si encuentras algún problema o tienes ideas para mejorar el juego, no dudes en abrir un issue o enviar un pull request.
 
-## Licencia
-
-Este proyecto está licenciado bajo la [Licencia que hayas elegido, por ejemplo, MIT License].
-
 ## Contacto
 
 Para cualquier consulta o comentario, puedes contactarme en [javierlisbona1@gmail.com].
