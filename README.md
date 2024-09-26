@@ -42,7 +42,7 @@
 
 ## Contribuciones
 
-¡Contribuciones y sugerencias son bienvenidas! Si encuentras algún problema o tienes ideas para mejorar el juego, no dudes en abrir un issue o enviar un pull request.
+¡Contribuciones y sugerencias son bienvenidas! Si encuentras algún problema o tienes ideas para mejorar el juego, no dudes en contactar.
 
 ## Contacto
 
