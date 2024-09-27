@@ -25,7 +25,7 @@
    
 2. **Navegar al directorio del proyecto**:
    
-    cd juego-de-ajedrez
+    cd nombre-del-proyecto
    
 3. **Instalar dependencias**:
     
